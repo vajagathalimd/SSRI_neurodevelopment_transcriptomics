@@ -1,6 +1,6 @@
 # SSRI neurodevelopment transcriptomics
 
-This repository contains the analysis scripts, processed outputs, figure source material, revision analyses, and submission-support files for the manuscript:
+This repository contains the analysis scripts, processed outputs, figure source material, and revision analyses for the manuscript:
 
 **Integrative transcriptomic analysis of SSRI exposure datasets identifies neurodevelopmental and stress-response signatures in human neural differentiation systems**
 
@@ -21,7 +21,6 @@ The repository does not duplicate raw FASTQ files or large workflow intermediate
 - `tables/` - manuscript and supplementary table source outputs.
 - `figures/` - manuscript figure files.
 - `plos_revision/` - revision-specific analyses for the PLOS ONE response, including the edgeR citalopram reanalysis, formal cross-SSRI overlap tests, and module random-set benchmark.
-- `submission_documents/` - revised manuscript, tracked manuscript, response to reviewers, and supplementary files.
 - `software_logs/` - available software/session and workflow logs.
 
 ## Key software versions reported in the manuscript
