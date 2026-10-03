@@ -1,0 +1,97 @@
+GSM,sample_title,characteristics
+GSM5067976,control-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 315 | batch: run_1
+GSM5067977,control-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 316 | batch: run_2
+GSM5067978,control-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 315 | batch: run_3
+GSM5067979,control-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 316 | batch: run_4
+GSM5067980,control-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 314 | batch: run_5
+GSM5067981,control-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 309 | batch: run_6
+GSM5067982,control-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 320 | batch: run_1
+GSM5067983,control-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: No exposure | fragment_size: 320 | batch: run_2
+GSM5067984,NPC-1,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 301 | batch: run_5
+GSM5067985,NPC-2,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 309 | batch: run_6
+GSM5067986,NPC-3,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 318 | batch: run_1
+GSM5067987,NPC-4,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 317 | batch: run_2
+GSM5067988,NPC-5,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 312 | batch: run_3
+GSM5067989,NPC-6,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 326 | batch: run_4
+GSM5067990,NPC-7,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 323 | batch: run_5
+GSM5067991,NPC-8,originating cell line: H9 | cell type: Neural progenitor cells | time point: Day 0 | exposure: No exposure | fragment_size: 315 | batch: run_6
+GSM5067992,Acrylamide_IC20_100-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 317 | batch: run_5
+GSM5067993,Acrylamide_IC20_100-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 312 | batch: run_6
+GSM5067994,Acrylamide_IC20_100-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 312 | batch: run_1
+GSM5067995,Acrylamide_IC20_100-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 320 | batch: run_2
+GSM5067996,Acrylamide_IC20_100-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 317 | batch: run_3
+GSM5067997,Acrylamide_IC20_100-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 322 | batch: run_4
+GSM5067998,Acrylamide_IC20_100-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 319 | batch: run_5
+GSM5067999,Acrylamide_IC20_100-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC20/100 | fragment_size: 313 | batch: run_6
+GSM5068000,Acrylamide_IC5-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 316 | batch: run_3
+GSM5068001,Acrylamide_IC5-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 315 | batch: run_4
+GSM5068002,Acrylamide_IC5-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 303 | batch: run_5
+GSM5068003,Acrylamide_IC5-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 314 | batch: run_6
+GSM5068004,Acrylamide_IC5-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 317 | batch: run_1
+GSM5068005,Acrylamide_IC5-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 320 | batch: run_2
+GSM5068006,Acrylamide_IC5-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 320 | batch: run_3
+GSM5068007,Acrylamide_IC5-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Acrylamide IC5 | fragment_size: 310 | batch: run_4
+GSM5068008,Chlorpyrifos_IC20_100-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 315 | batch: run_3
+GSM5068009,Chlorpyrifos_IC20_100-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 315 | batch: run_4
+GSM5068010,Chlorpyrifos_IC20_100-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 313 | batch: run_5
+GSM5068011,Chlorpyrifos_IC20_100-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 307 | batch: run_6
+GSM5068012,Chlorpyrifos_IC20_100-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 315 | batch: run_1
+GSM5068013,Chlorpyrifos_IC20_100-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 320 | batch: run_2
+GSM5068014,Chlorpyrifos_IC20_100-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 311 | batch: run_3
+GSM5068015,Chlorpyrifos_IC20_100-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC20/100 | fragment_size: 301 | batch: run_4
+GSM5068016,Chlorpyrifos_IC5-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 311 | batch: run_1
+GSM5068017,Chlorpyrifos_IC5-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 320 | batch: run_2
+GSM5068018,Chlorpyrifos_IC5-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 317 | batch: run_3
+GSM5068019,Chlorpyrifos_IC5-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 315 | batch: run_4
+GSM5068020,Chlorpyrifos_IC5-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 314 | batch: run_5
+GSM5068021,Chlorpyrifos_IC5-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 308 | batch: run_6
+GSM5068022,Chlorpyrifos_IC5-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 315 | batch: run_1
+GSM5068023,Chlorpyrifos_IC5-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Chlorpyrifos IC5 | fragment_size: 320 | batch: run_2
+GSM5068024,Fluoxetine_IC20_100-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 315 | batch: run_1
+GSM5068025,Fluoxetine_IC20_100-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 320 | batch: run_2
+GSM5068026,Fluoxetine_IC20_100-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 316 | batch: run_3
+GSM5068027,Fluoxetine_IC20_100-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 315 | batch: run_4
+GSM5068028,Fluoxetine_IC20_100-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 314 | batch: run_5
+GSM5068029,Fluoxetine_IC20_100-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 311 | batch: run_6
+GSM5068030,Fluoxetine_IC20_100-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 315 | batch: run_1
+GSM5068031,Fluoxetine_IC20_100-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC20/100 | fragment_size: 320 | batch: run_2
+GSM5068032,Fluoxetine_IC5-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 308 | batch: run_5
+GSM5068033,Fluoxetine_IC5-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 312 | batch: run_6
+GSM5068034,Fluoxetine_IC5-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 315 | batch: run_1
+GSM5068035,Fluoxetine_IC5-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 320 | batch: run_2
+GSM5068036,Fluoxetine_IC5-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 316 | batch: run_3
+GSM5068037,Fluoxetine_IC5-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 303 | batch: run_4
+GSM5068038,Fluoxetine_IC5-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 315 | batch: run_5
+GSM5068039,Fluoxetine_IC5-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Fluoxetine IC5 | fragment_size: 309 | batch: run_6
+GSM5068040,MeHg_IC20_100-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 318 | batch: run_5
+GSM5068041,MeHg_IC20_100-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 311 | batch: run_6
+GSM5068042,MeHg_IC20_100-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 315 | batch: run_1
+GSM5068043,MeHg_IC20_100-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 320 | batch: run_2
+GSM5068044,MeHg_IC20_100-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 316 | batch: run_3
+GSM5068045,MeHg_IC20_100-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 312 | batch: run_4
+GSM5068046,MeHg_IC20_100-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 314 | batch: run_5
+GSM5068047,MeHg_IC20_100-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC20/100 | fragment_size: 311 | batch: run_6
+GSM5068048,MeHg_IC5-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 316 | batch: run_3
+GSM5068049,MeHg_IC5-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 307 | batch: run_4
+GSM5068050,MeHg_IC5-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 316 | batch: run_5
+GSM5068051,MeHg_IC5-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 311 | batch: run_6
+GSM5068052,MeHg_IC5-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 315 | batch: run_1
+GSM5068053,MeHg_IC5-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 320 | batch: run_2
+GSM5068054,MeHg_IC5-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 316 | batch: run_3
+GSM5068055,MeHg_IC5-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Methyl mercury IC5 | fragment_size: 318 | batch: run_4
+GSM5068056,Valproic_acid_IC20_100-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 315 | batch: run_3
+GSM5068057,Valproic_acid_IC20_100-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 319 | batch: run_4
+GSM5068058,Valproic_acid_IC20_100-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 317 | batch: run_5
+GSM5068059,Valproic_acid_IC20_100-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 312 | batch: run_6
+GSM5068060,Valproic_acid_IC20_100-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 324 | batch: run_2
+GSM5068061,Valproic_acid_IC20_100-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 310 | batch: run_1
+GSM5068062,Valproic_acid_IC20_100-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 315 | batch: run_3
+GSM5068063,Valproic_acid_IC20_100-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC20/100 | fragment_size: 321 | batch: run_4
+GSM5068064,Valproic_acid_IC5-1,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 314 | batch: run_1
+GSM5068065,Valproic_acid_IC5-2,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 325 | batch: run_2
+GSM5068066,Valproic_acid_IC5-3,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 319 | batch: run_3
+GSM5068067,Valproic_acid_IC5-4,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 328 | batch: run_4
+GSM5068068,Valproic_acid_IC5-5,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 315 | batch: run_5
+GSM5068069,Valproic_acid_IC5-6,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 310 | batch: run_6
+GSM5068070,Valproic_acid_IC5-7,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 317 | batch: run_1
+GSM5068071,Valproic_acid_IC5-8,originating cell line: H9 | cell type: Neuronal-astrocyte co-culture | time point: Day 10 | exposure: Valproic acid IC5 | fragment_size: 318 | batch: run_2

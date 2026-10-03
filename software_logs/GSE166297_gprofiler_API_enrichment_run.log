@@ -1,0 +1,16 @@
+Saved input summary: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/GSE166297_gprofiler_input_gene_counts.csv
+Running g:Profiler for FLX_IC5_all_significant_DEGs: 541 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC5_all_significant_DEGs_gprofiler_enrichment.csv | significant terms: 240
+Running g:Profiler for FLX_IC20_100_all_significant_DEGs: 580 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC20_100_all_significant_DEGs_gprofiler_enrichment.csv | significant terms: 248
+Running g:Profiler for Shared_FLX_IC5_and_IC20_100_DEGs: 277 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/Shared_FLX_IC5_and_IC20_100_DEGs_gprofiler_enrichment.csv | significant terms: 126
+Running g:Profiler for FLX_IC5_upregulated_DEGs: 118 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC5_upregulated_DEGs_gprofiler_enrichment.csv | significant terms: 30
+Running g:Profiler for FLX_IC5_downregulated_DEGs: 423 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC5_downregulated_DEGs_gprofiler_enrichment.csv | significant terms: 199
+Running g:Profiler for FLX_IC20_100_upregulated_DEGs: 130 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC20_100_upregulated_DEGs_gprofiler_enrichment.csv | significant terms: 4
+Running g:Profiler for FLX_IC20_100_downregulated_DEGs: 450 genes
+Saved: /mnt/d/SSRI_neurodevelopment_transcriptomics/11_pathway_enrichment/GSE166297_gprofiler/FLX_IC20_100_downregulated_DEGs_gprofiler_enrichment.csv | significant terms: 216
+g:Profiler API enrichment completed.

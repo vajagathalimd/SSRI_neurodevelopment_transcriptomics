@@ -1,0 +1,12 @@
+module,input_gene_count,expressed_gene_count,missing_gene_count
+Astrocyte_glial_identity,8,6,2
+Axon_neurite_outgrowth,9,9,0
+GABAergic_signalling,8,8,0
+Glutamatergic_signalling,8,7,1
+Inflammatory_chemokine_signalling,8,5,3
+Neural_progenitor_cell_cycle,10,10,0
+Neuronal_differentiation,8,8,0
+Oligodendrocyte_myelin,8,6,2
+Oxidative_stress_apoptosis,9,9,0
+Serotonergic_signalling,9,5,4
+Synaptic_function,9,9,0

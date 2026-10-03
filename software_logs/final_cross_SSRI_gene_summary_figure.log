@@ -1,0 +1,46 @@
+null device 
+          1 
+null device 
+          1 
+   gene_key                                      functional_category
+5      JDP2 Cellular stress, inflammatory or growth-response related
+9     SESN2         Amino-acid, metabolic or stress-response related
+8      ASNS         Amino-acid, metabolic or stress-response related
+2     CEBPB Cellular stress, inflammatory or growth-response related
+1     SCN4A       Neurodevelopment, synaptic or excitability-related
+3      PCK2         Amino-acid, metabolic or stress-response related
+4      ATF5         Amino-acid, metabolic or stress-response related
+7     TRIB3         Amino-acid, metabolic or stress-response related
+6      STC2 Cellular stress, inflammatory or growth-response related
+10   SLC1A5         Amino-acid, metabolic or stress-response related
+17     EMP1 Cellular stress, inflammatory or growth-response related
+11     ASS1         Amino-acid, metabolic or stress-response related
+18     LGI1       Neurodevelopment, synaptic or excitability-related
+12    PHGDH         Amino-acid, metabolic or stress-response related
+23   SEMA3D       Neurodevelopment, synaptic or excitability-related
+22       XK                         Other shared downregulated genes
+28    CHAC1         Amino-acid, metabolic or stress-response related
+16    CDH13       Neurodevelopment, synaptic or excitability-related
+24     IL11 Cellular stress, inflammatory or growth-response related
+25    CRYAB Cellular stress, inflammatory or growth-response related
+   n_unique_pairs mean_logFC_FLX mean_logFC_CIT
+5               3     -1.6969719     -0.8028949
+9               3     -1.2411137     -0.8931328
+8               3     -1.1636237     -0.9935101
+2               2     -2.4363012     -0.6916283
+1               2     -2.2462130     -0.6590710
+3               2     -2.0855787     -0.8625007
+4               2     -2.0530676     -0.8147637
+7               2     -1.7192468     -0.8063900
+6               2     -1.6924183     -0.6154247
+10              2     -1.1480086     -0.7666928
+17              2     -1.1474655     -1.0442731
+11              2     -1.0754937     -0.7136349
+18              2     -0.8651579     -0.7524437
+12              2     -0.8172238     -0.6554666
+23              2     -0.7047783     -0.8519032
+22              2     -0.6214598     -0.5818495
+28              1     -1.9465560     -1.1060930
+16              1     -1.1811763     -0.8541145
+24              1     -1.1500462     -1.0637241
+25              1     -1.1071591     -1.0007060

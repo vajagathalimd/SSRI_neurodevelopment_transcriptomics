@@ -1,0 +1,49 @@
+Main pipeline:
+nf-core/rnaseq
+
+Workflow manager:
+Nextflow
+
+Container:
+Docker
+
+Raw RNA-seq processing:
+nf-core/rnaseq with Salmon pseudoalignment
+
+Dataset strategy:
+GSE166297 - process raw FASTQ using nf-core/rnaseq
+GSE260888 - use processed CPM matrix, no nf-core because raw FASTQ is not available
+
+Main downstream language:
+R
+
+Main R packages:
+DESeq2
+limma
+edgeR
+tximport
+tidyverse
+ggplot2
+pheatmap
+ComplexHeatmap
+EnhancedVolcano
+clusterProfiler
+org.Hs.eg.db
+ReactomePA
+msigdbr
+fgsea
+GSVA
+UpSetR
+VennDiagram
+BiocManager
+
+Main outputs:
+MultiQC report
+Salmon gene counts
+PCA plots
+Volcano plots
+Heatmaps
+DEG tables
+GO/Reactome enrichment
+Neurodevelopmental module scores
+Cross-dataset SSRI signature

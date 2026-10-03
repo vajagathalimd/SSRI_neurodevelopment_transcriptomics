@@ -1,0 +1,4 @@
+sample_id,dataset,compound,condition,dose_group,time_point,model_system,replicate_number,comparison_group,srr_accession,fastq_1,strandedness
+sample_1,GSE166297,None,Control,None,Day10,hNPT_neuron_astrocyte,1,Control_D10,SRRxxxxxxx,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,reverse
+sample_2,GSE166297,Fluoxetine,Treated,IC20_100,Day10,hNPT_neuron_astrocyte,1,FLX_IC20_100,SRRxxxxxxx,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,reverse
+sample_3,GSE166297,Fluoxetine,Treated,IC5,Day10,hNPT_neuron_astrocyte,1,FLX_IC5,SRRxxxxxxx,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,reverse

@@ -1,0 +1,123 @@
+R version: R version 4.3.3 (2024-02-29) 
+edgeR version: 4.0.16 
+limma version: 3.58.1 
+
+Number of featureCounts files: 89 
+Count matrix dimensions: 36601 genes x 89 samples
+Counts integer-valued: TRUE 
+
+Metadata matched to raw featureCounts by unique sample number: PASS
+Raw filename versus CPM-derived metadata identifier differences:
+   sample_number raw_count_sample_id   cpm_sample_id
+35           291     291-D13-CIT50-D 291-D13-CIT40-D
+
+Exact sample numbers:
+         treatment
+day_group CIT100 CIT200 CIT400 CIT50 CTRL
+      D0       0      0      0     0    3
+      D10      5      5      6     6    6
+      D13      5      5      6     6    6
+      D6       6      6      6     6    6
+
+Genes before filterByExpr: 36601 
+Genes retained after filterByExpr: 17374 
+Genes removed: 19227 
+
+edgeR dispersion estimation: completed
+edgeR quasi-likelihood fitting: completed
+
+D6_CIT50_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=0 | FDR<0.05 & |log2FC|>=0.58=0 | UP=0 | DOWN=0
+D6_CIT100_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=2 | FDR<0.05 & |log2FC|>=0.58=1 | UP=0 | DOWN=1
+D6_CIT200_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=43 | FDR<0.05 & |log2FC|>=0.58=9 | UP=5 | DOWN=4
+D6_CIT400_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=367 | FDR<0.05 & |log2FC|>=0.58=50 | UP=33 | DOWN=17
+D10_CIT50_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=6 | FDR<0.05 & |log2FC|>=0.58=4 | UP=2 | DOWN=2
+D10_CIT100_vs_CTRL | CTRL n=6 | treated n=5 | FDR<0.05=0 | FDR<0.05 & |log2FC|>=0.58=0 | UP=0 | DOWN=0
+D10_CIT200_vs_CTRL | CTRL n=6 | treated n=5 | FDR<0.05=739 | FDR<0.05 & |log2FC|>=0.58=257 | UP=120 | DOWN=137
+D10_CIT400_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=212 | FDR<0.05 & |log2FC|>=0.58=80 | UP=73 | DOWN=7
+D13_CIT50_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=0 | FDR<0.05 & |log2FC|>=0.58=0 | UP=0 | DOWN=0
+D13_CIT100_vs_CTRL | CTRL n=6 | treated n=5 | FDR<0.05=1246 | FDR<0.05 & |log2FC|>=0.58=250 | UP=64 | DOWN=186
+D13_CIT200_vs_CTRL | CTRL n=6 | treated n=5 | FDR<0.05=310 | FDR<0.05 & |log2FC|>=0.58=175 | UP=85 | DOWN=90
+D13_CIT400_vs_CTRL | CTRL n=6 | treated n=6 | FDR<0.05=644 | FDR<0.05 & |log2FC|>=0.58=154 | UP=113 | DOWN=41
+null device 
+          1 
+null device 
+          1 
+
+====================================================
+GSE260888 edgeR QL REANALYSIS COMPLETED SUCCESSFULLY
+====================================================
+
+Genes before filtering: 36601 
+Genes after filterByExpr: 17374 
+
+FINAL DEG SUMMARY
+           contrast day treatment dose_nM n_control n_treated tested_genes
+   D6_CIT50_vs_CTRL  D6     CIT50      50         6         6        17374
+  D6_CIT100_vs_CTRL  D6    CIT100     100         6         6        17374
+  D6_CIT200_vs_CTRL  D6    CIT200     200         6         6        17374
+  D6_CIT400_vs_CTRL  D6    CIT400     400         6         6        17374
+  D10_CIT50_vs_CTRL D10     CIT50      50         6         6        17374
+ D10_CIT100_vs_CTRL D10    CIT100     100         6         5        17374
+ D10_CIT200_vs_CTRL D10    CIT200     200         6         5        17374
+ D10_CIT400_vs_CTRL D10    CIT400     400         6         6        17374
+  D13_CIT50_vs_CTRL D13     CIT50      50         6         6        17374
+ D13_CIT100_vs_CTRL D13    CIT100     100         6         5        17374
+ D13_CIT200_vs_CTRL D13    CIT200     200         6         5        17374
+ D13_CIT400_vs_CTRL D13    CIT400     400         6         6        17374
+ significant_FDR05 significant_FDR05_log2FC058 upregulated downregulated
+                 0                           0           0             0
+                 2                           1           0             1
+                43                           9           5             4
+               367                          50          33            17
+                 6                           4           2             2
+                 0                           0           0             0
+               739                         257         120           137
+               212                          80          73             7
+                 0                           0           0             0
+              1246                         250          64           186
+               310                         175          85            90
+               644                         154         113            41
+
+ROBUSTNESS VS PREVIOUS LIMMA
+           contrast common_genes pearson_logFC spearman_logFC
+   D6_CIT50_vs_CTRL        17374     0.8742928      0.9690535
+  D6_CIT100_vs_CTRL        17374     0.8402893      0.9656319
+  D6_CIT200_vs_CTRL        17374     0.8530238      0.9765330
+  D6_CIT400_vs_CTRL        17374     0.8877915      0.9809857
+  D10_CIT50_vs_CTRL        17374     0.8588823      0.9348031
+ D10_CIT100_vs_CTRL        17374     0.8415035      0.9091077
+ D10_CIT200_vs_CTRL        17374     0.9159520      0.9783191
+ D10_CIT400_vs_CTRL        17374     0.8804843      0.9475191
+  D13_CIT50_vs_CTRL        17374     0.9402871      0.9866712
+ D13_CIT100_vs_CTRL        17374     0.9416228      0.9816321
+ D13_CIT200_vs_CTRL        17374     0.8648272      0.9313280
+ D13_CIT400_vs_CTRL        17374     0.9430255      0.9864607
+ old_limma_significant new_edgeR_significant significant_in_both
+                     0                     0                   0
+                     0                     1                   0
+                    13                     9                   7
+                    66                    50                  37
+                     2                     4                   2
+                     0                     0                   0
+                   202                   257                 170
+                    72                    80                  57
+                     0                     0                   0
+                   158                   250                 113
+                    11                   175                  11
+                    79                   154                  72
+ direction_agreement_all direction_agreement_both_significant
+               0.9594221                                   NA
+               0.9483711                                   NA
+               0.9604582                                    1
+               0.9681133                                    1
+               0.9248878                                    1
+               0.9101531                                   NA
+               0.9638540                                    1
+               0.9365719                                    1
+               0.9646598                                   NA
+               0.9442270                                    1
+               0.9477956                                    1
+               0.9422701                                    1
+
+Outputs saved to:
+/mnt/g/D/SSRI_neurodevelopment_transcriptomics/20_PLOS_revision/comment2_GSE260888_edgeR 

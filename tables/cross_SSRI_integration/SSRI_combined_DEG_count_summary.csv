@@ -1,0 +1,15 @@
+"dataset","drug","timepoint","treatment","contrast","total_sig","upregulated","downregulated"
+"GSE166297","Fluoxetine","D10","FLX_IC5","FLX_IC5_vs_Control_D10",542,119,423
+"GSE166297","Fluoxetine","D10","FLX_IC20_100","FLX_IC20_100_vs_Control_D10",581,131,450
+"GSE260888","Citalopram","D6","CIT50","D6_CIT50_vs_CTRL",0,0,0
+"GSE260888","Citalopram","D6","CIT100","D6_CIT100_vs_CTRL",0,0,0
+"GSE260888","Citalopram","D6","CIT200","D6_CIT200_vs_CTRL",13,10,3
+"GSE260888","Citalopram","D6","CIT400","D6_CIT400_vs_CTRL",67,46,21
+"GSE260888","Citalopram","D10","CIT50","D10_CIT50_vs_CTRL",2,2,0
+"GSE260888","Citalopram","D10","CIT100","D10_CIT100_vs_CTRL",0,0,0
+"GSE260888","Citalopram","D10","CIT200","D10_CIT200_vs_CTRL",202,57,145
+"GSE260888","Citalopram","D10","CIT400","D10_CIT400_vs_CTRL",72,59,13
+"GSE260888","Citalopram","D13","CIT50","D13_CIT50_vs_CTRL",0,0,0
+"GSE260888","Citalopram","D13","CIT100","D13_CIT100_vs_CTRL",163,12,151
+"GSE260888","Citalopram","D13","CIT200","D13_CIT200_vs_CTRL",11,7,4
+"GSE260888","Citalopram","D13","CIT400","D13_CIT400_vs_CTRL",80,51,29

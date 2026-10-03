@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,strandedness
+CTRL_D10_1,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,,reverse
+CTRL_D10_2,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,,reverse
+FLX_IC20_100_1,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,,reverse
+FLX_IC5_1,/mnt/d/SSRI_neurodevelopment_transcriptomics/03_raw_downloads/GSE166297_fastq/SRRxxxxxxx.fastq.gz,,reverse

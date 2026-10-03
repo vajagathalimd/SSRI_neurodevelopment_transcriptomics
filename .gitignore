@@ -1,0 +1,13 @@
+# Large/raw workflow material intentionally excluded from the GitHub package
+03_raw_downloads/
+05_nfcore_results/
+06_nfcore_work/
+work/
+.nextflow/
+raw_featurecounts/
+
+# Local/runtime clutter
+.DS_Store
+Thumbs.db
+*.tmp
+*.log~

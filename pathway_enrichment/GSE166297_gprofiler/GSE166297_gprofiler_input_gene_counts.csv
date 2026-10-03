@@ -1,0 +1,8 @@
+gene_set,n_genes
+FLX_IC5_all_significant_DEGs,541
+FLX_IC20_100_all_significant_DEGs,580
+Shared_FLX_IC5_and_IC20_100_DEGs,277
+FLX_IC5_upregulated_DEGs,118
+FLX_IC5_downregulated_DEGs,423
+FLX_IC20_100_upregulated_DEGs,130
+FLX_IC20_100_downregulated_DEGs,450

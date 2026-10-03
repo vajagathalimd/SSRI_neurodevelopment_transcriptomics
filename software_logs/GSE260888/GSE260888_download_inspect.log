@@ -1,0 +1,51 @@
+[1] 89 47
+ [1] "title"                   "geo_accession"          
+ [3] "status"                  "submission_date"        
+ [5] "last_update_date"        "type"                   
+ [7] "channel_count"           "source_name_ch1"        
+ [9] "organism_ch1"            "characteristics_ch1"    
+[11] "characteristics_ch1.1"   "characteristics_ch1.2"  
+[13] "treatment_protocol_ch1"  "growth_protocol_ch1"    
+[15] "molecule_ch1"            "extract_protocol_ch1"   
+[17] "extract_protocol_ch1.1"  "taxid_ch1"              
+[19] "description"             "description.1"          
+[21] "data_processing"         "data_processing.1"      
+[23] "data_processing.2"       "data_processing.3"      
+[25] "data_processing.4"       "data_processing.5"      
+[27] "platform_id"             "contact_name"           
+[29] "contact_email"           "contact_phone"          
+[31] "contact_laboratory"      "contact_department"     
+[33] "contact_institute"       "contact_address"        
+[35] "contact_city"            "contact_state"          
+[37] "contact_zip/postal_code" "contact_country"        
+[39] "data_row_count"          "instrument_model"       
+[41] "library_selection"       "library_source"         
+[43] "library_strategy"        "supplementary_file_1"   
+[45] "cell line:ch1"           "cell type:ch1"          
+[47] "treatment:ch1"          
+                                                                         size
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar    390123520
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz  12308547
+                                                                    isdir mode
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar    FALSE  777
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz FALSE  777
+                                                                                  mtime
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar    2026-06-23 19:03:40
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz 2026-06-23 19:03:42
+                                                                                  ctime
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar    2026-06-23 19:03:40
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz 2026-06-23 19:03:42
+                                                                                  atime
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar    2026-06-23 19:03:40
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz 2026-06-23 19:03:42
+                                                                    uid gid
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar      0   0
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz   0   0
+                                                                    uname
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar     root
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz  root
+                                                                    grname
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar      root
+03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz   root
+[1] "03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_cpm.csv.gz"
+[2] "03_raw_downloads/GSE260888_processed/GSE260888/GSE260888_RAW.tar"   

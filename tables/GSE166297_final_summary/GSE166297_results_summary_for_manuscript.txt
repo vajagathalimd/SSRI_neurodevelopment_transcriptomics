@@ -1,0 +1,284 @@
+GSE166297 fluoxetine transcriptomic analysis summary
+====================================================
+
+Differential expression analysis:
+                     contrast upregulated downregulated total
+1      FLX_IC5_vs_Control_D10         119           423   542
+2 FLX_IC20_100_vs_Control_D10         131           450   581
+
+DEG overlap summary:
+                  category count
+1      FLX_IC5 significant   541
+2 FLX_IC20_100 significant   580
+3                   Shared   277
+4             FLX_IC5 only   264
+5        FLX_IC20_100 only   303
+
+Neurodevelopmental module statistics:
+                              module                    contrast mean_control
+12              GABAergic_signalling FLX_IC20_100_vs_Control_D10   0.63312611
+20        Oxidative_stress_apoptosis FLX_IC20_100_vs_Control_D10   0.42288644
+8                  Synaptic_function FLX_IC20_100_vs_Control_D10   0.30330728
+10          Glutamatergic_signalling FLX_IC20_100_vs_Control_D10   0.50914480
+16          Astrocyte_glial_identity FLX_IC20_100_vs_Control_D10   0.45244359
+18            Oligodendrocyte_myelin FLX_IC20_100_vs_Control_D10   0.29510983
+4           Neuronal_differentiation FLX_IC20_100_vs_Control_D10   0.11104886
+2       Neural_progenitor_cell_cycle FLX_IC20_100_vs_Control_D10   0.05926602
+6             Axon_neurite_outgrowth FLX_IC20_100_vs_Control_D10   0.01172728
+22 Inflammatory_chemokine_signalling FLX_IC20_100_vs_Control_D10  -0.03282695
+14           Serotonergic_signalling FLX_IC20_100_vs_Control_D10  -0.11961645
+11              GABAergic_signalling      FLX_IC5_vs_Control_D10   0.63312611
+15          Astrocyte_glial_identity      FLX_IC5_vs_Control_D10   0.45244359
+9           Glutamatergic_signalling      FLX_IC5_vs_Control_D10   0.50914480
+19        Oxidative_stress_apoptosis      FLX_IC5_vs_Control_D10   0.42288644
+1       Neural_progenitor_cell_cycle      FLX_IC5_vs_Control_D10   0.05926602
+7                  Synaptic_function      FLX_IC5_vs_Control_D10   0.30330728
+21 Inflammatory_chemokine_signalling      FLX_IC5_vs_Control_D10  -0.03282695
+17            Oligodendrocyte_myelin      FLX_IC5_vs_Control_D10   0.29510983
+3           Neuronal_differentiation      FLX_IC5_vs_Control_D10   0.11104886
+13           Serotonergic_signalling      FLX_IC5_vs_Control_D10  -0.11961645
+5             Axon_neurite_outgrowth      FLX_IC5_vs_Control_D10   0.01172728
+   mean_treated mean_difference estimate_from_model  std_error    t_value
+12 -0.097428865     -0.73055498          -0.7305550 0.09120553  -8.009986
+20 -0.448660399     -0.87154684          -0.8715468 0.11069039  -7.873736
+8  -0.311187594     -0.61449487          -0.6144949 0.08785270  -6.994604
+10 -0.296237563     -0.80538236          -0.8053824 0.14271587  -5.643257
+16 -0.097998659     -0.55044225          -0.5504423 0.13910978  -3.956891
+18 -0.291573657     -0.58668349          -0.5866835 0.15236562  -3.850498
+4  -0.140632675     -0.25168153          -0.2516815 0.08041286  -3.129867
+2   0.372943040      0.31367702           0.3136770 0.14840318   2.113681
+6  -0.221850188     -0.23357747          -0.2335775 0.11460596  -2.038092
+22 -0.237906229     -0.20507928          -0.2050793 0.12816812  -1.600080
+14  0.011367632      0.13098408           0.1309841 0.19692886   0.665134
+11 -0.535697247     -1.16882336          -1.2633634 0.09393774 -13.448943
+15 -0.354444932     -0.80688852          -0.9209553 0.14327705  -6.427793
+9  -0.212907234     -0.72205203          -0.7870626 0.14699116  -5.354489
+19  0.025773957     -0.39711249          -0.4590914 0.11400631  -4.026895
+1  -0.432209062     -0.49147508          -0.5760060 0.15284885  -3.768468
+7   0.007880317     -0.29542696          -0.3167867 0.09048448  -3.501006
+21  0.270733176      0.30356012           0.3656217 0.13200761   2.769702
+17 -0.003536177     -0.29864601          -0.2528597 0.15693000  -1.611290
+3   0.029583817     -0.08146504          -0.1168580 0.08282176  -1.410958
+13  0.108248815      0.22786526           0.2789885 0.20282820   1.375492
+5   0.210122907      0.19839563           0.1096140 0.11803918   0.928624
+        p_value                     design_used      padj_BH
+12 5.456400e-07 score ~ batch + condition_group 4.995831e-06
+20 6.812497e-07 score ~ batch + condition_group 4.995831e-06
+8  3.024376e-06 score ~ batch + condition_group 1.663407e-05
+10 3.666174e-05 score ~ batch + condition_group 1.344264e-04
+16 1.129977e-03 score ~ batch + condition_group 2.762167e-03
+18 1.413840e-03 score ~ batch + condition_group 3.110448e-03
+4  6.462435e-03 score ~ batch + condition_group 1.093643e-02
+2  5.059952e-02 score ~ batch + condition_group 7.421263e-02
+6  5.842470e-02 score ~ batch + condition_group 8.033396e-02
+22 1.291381e-01 score ~ batch + condition_group 1.578355e-01
+14 5.154387e-01 score ~ batch + condition_group 5.154387e-01
+11 3.880115e-10 score ~ batch + condition_group 8.536252e-09
+15 8.355311e-06 score ~ batch + condition_group 3.676337e-05
+9  6.449663e-05 score ~ batch + condition_group 2.027037e-04
+19 9.753067e-04 score ~ batch + condition_group 2.682093e-03
+1  1.680941e-03 score ~ batch + condition_group 3.361883e-03
+7  2.957258e-03 score ~ batch + condition_group 5.421640e-03
+21 1.366870e-02 score ~ batch + condition_group 2.147939e-02
+17 1.266650e-01 score ~ batch + condition_group 1.578355e-01
+3  1.774049e-01 score ~ batch + condition_group 2.054161e-01
+13 1.879319e-01 score ~ batch + condition_group 2.067251e-01
+5  3.668825e-01 score ~ batch + condition_group 3.843531e-01
+
+Top enrichment terms per gene set:
+                            gene_set source            native
+1  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0032501
+2  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0007275
+3  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0048856
+4  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0032502
+5  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0048731
+6  FLX_IC20_100_all_significant_DEGs  GO:CC        GO:0071944
+7  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0023052
+8  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0007154
+9  FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0065007
+10 FLX_IC20_100_all_significant_DEGs  GO:BP        GO:0050896
+11   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0032501
+12   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0007275
+13   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0048856
+14   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0032502
+15   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0048731
+16   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0050896
+17   FLX_IC20_100_downregulated_DEGs  GO:CC        GO:0071944
+18   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0023052
+19   FLX_IC20_100_downregulated_DEGs  GO:BP        GO:0007154
+20   FLX_IC20_100_downregulated_DEGs  GO:CC        GO:0005615
+21     FLX_IC20_100_upregulated_DEGs  GO:BP        GO:0032413
+22     FLX_IC20_100_upregulated_DEGs  GO:BP        GO:0032410
+23     FLX_IC20_100_upregulated_DEGs  GO:BP        GO:0033555
+24     FLX_IC20_100_upregulated_DEGs  GO:BP        GO:0034763
+25      FLX_IC5_all_significant_DEGs  GO:BP        GO:0032501
+26      FLX_IC5_all_significant_DEGs  GO:BP        GO:0048731
+27      FLX_IC5_all_significant_DEGs  GO:BP        GO:0007275
+28      FLX_IC5_all_significant_DEGs  GO:BP        GO:0048856
+29      FLX_IC5_all_significant_DEGs  GO:BP        GO:0032502
+30      FLX_IC5_all_significant_DEGs  GO:CC        GO:0071944
+31      FLX_IC5_all_significant_DEGs  GO:BP        GO:0048513
+32      FLX_IC5_all_significant_DEGs  GO:BP        GO:0099537
+33      FLX_IC5_all_significant_DEGs  GO:BP        GO:0099536
+34      FLX_IC5_all_significant_DEGs  GO:BP        GO:0007267
+35        FLX_IC5_downregulated_DEGs  GO:BP        GO:0032501
+36        FLX_IC5_downregulated_DEGs  GO:BP        GO:0007275
+37        FLX_IC5_downregulated_DEGs  GO:BP        GO:0048731
+38        FLX_IC5_downregulated_DEGs  GO:BP        GO:0048856
+39        FLX_IC5_downregulated_DEGs  GO:BP        GO:0032502
+40        FLX_IC5_downregulated_DEGs  GO:BP        GO:0007154
+41        FLX_IC5_downregulated_DEGs  GO:CC        GO:0071944
+42        FLX_IC5_downregulated_DEGs  GO:BP        GO:0023052
+43        FLX_IC5_downregulated_DEGs  GO:BP        GO:0099536
+44        FLX_IC5_downregulated_DEGs  GO:BP        GO:0099537
+45          FLX_IC5_upregulated_DEGs  GO:BP        GO:0046165
+46          FLX_IC5_upregulated_DEGs  GO:BP        GO:0006695
+47          FLX_IC5_upregulated_DEGs  GO:BP        GO:1902653
+48          FLX_IC5_upregulated_DEGs  GO:BP        GO:0016126
+49          FLX_IC5_upregulated_DEGs     WP         WP:WP5193
+50          FLX_IC5_upregulated_DEGs  GO:BP        GO:0044281
+51          FLX_IC5_upregulated_DEGs     WP         WP:WP4718
+52          FLX_IC5_upregulated_DEGs   REAC REAC:R-HSA-191273
+53          FLX_IC5_upregulated_DEGs  GO:BP        GO:0046189
+54          FLX_IC5_upregulated_DEGs  GO:BP        GO:0006066
+55  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0032501
+56  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0007275
+57  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0048731
+58  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0032502
+59  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0048856
+60  Shared_FLX_IC5_and_IC20_100_DEGs  GO:CC        GO:0071944
+61  Shared_FLX_IC5_and_IC20_100_DEGs  GO:CC        GO:0098590
+62  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0089718
+63  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:1901698
+64  Shared_FLX_IC5_and_IC20_100_DEGs  GO:BP        GO:0030154
+                                                          term_name
+1                                  multicellular organismal process
+2                                multicellular organism development
+3                                  anatomical structure development
+4                                             developmental process
+5                                                system development
+6                                                    cell periphery
+7                                                         signaling
+8                                                cell communication
+9                                             biological regulation
+10                                             response to stimulus
+11                                 multicellular organismal process
+12                               multicellular organism development
+13                                 anatomical structure development
+14                                            developmental process
+15                                               system development
+16                                             response to stimulus
+17                                                   cell periphery
+18                                                        signaling
+19                                               cell communication
+20                                              extracellular space
+21    negative regulation of ion transmembrane transporter activity
+22                      negative regulation of transporter activity
+23                      multicellular organismal response to stress
+24                   negative regulation of transmembrane transport
+25                                 multicellular organismal process
+26                                               system development
+27                               multicellular organism development
+28                                 anatomical structure development
+29                                            developmental process
+30                                                   cell periphery
+31                                         animal organ development
+32                                         trans-synaptic signaling
+33                                               synaptic signaling
+34                                              cell-cell signaling
+35                                 multicellular organismal process
+36                               multicellular organism development
+37                                               system development
+38                                 anatomical structure development
+39                                            developmental process
+40                                               cell communication
+41                                                   cell periphery
+42                                                        signaling
+43                                               synaptic signaling
+44                                         trans-synaptic signaling
+45                                     alcohol biosynthetic process
+46                                 cholesterol biosynthetic process
+47                           secondary alcohol biosynthetic process
+48                                      sterol biosynthetic process
+49                                  Cholesterol synthesis disorders
+50                                 small molecule metabolic process
+51 Cholesterol metabolism with Bloch and Kandutsch Russell pathways
+52                                         Cholesterol biosynthesis
+53                  phenol-containing compound biosynthetic process
+54                                        alcohol metabolic process
+55                                 multicellular organismal process
+56                               multicellular organism development
+57                                               system development
+58                                            developmental process
+59                                 anatomical structure development
+60                                                   cell periphery
+61                                           plasma membrane region
+62                         amino acid import across plasma membrane
+63                                    response to nitrogen compound
+64                                             cell differentiation
+        p_value term_size query_size intersection_size  precision     recall
+1  3.926163e-24      7337        399               245 0.61403509 0.03339239
+2  3.954089e-16      4690        399               169 0.42355890 0.03603412
+3  3.814263e-15      5948        399               195 0.48872180 0.03278413
+4  6.727629e-15      6535        399               207 0.51879699 0.03167559
+5  7.719523e-15      4023        399               150 0.37593985 0.03728561
+6  1.540266e-11      6263        419               190 0.45346062 0.03033690
+7  4.512147e-11      6558        399               197 0.49373434 0.03003965
+8  8.715382e-11      6598        399               197 0.49373434 0.02985753
+9  1.084782e-10     12804        399               313 0.78446115 0.02444549
+10 4.599624e-10      9051        399               244 0.61152882 0.02695835
+11 5.312235e-21      7337        329               205 0.62310030 0.02794058
+12 4.387511e-14      4690        329               142 0.43161094 0.03027719
+13 7.478573e-14      5948        329               165 0.50151976 0.02774042
+14 2.929115e-13      6535        329               174 0.52887538 0.02662586
+15 5.020227e-12      4023        329               124 0.37689970 0.03082277
+16 8.110823e-12      9051        329               212 0.64437690 0.02342283
+17 9.313366e-12      6263        347               164 0.47262248 0.02618553
+18 1.573430e-11      6558        329               170 0.51671733 0.02592254
+19 2.893766e-11      6598        329               170 0.51671733 0.02576538
+20 5.362544e-11      3252        347               104 0.29971182 0.03198032
+21 7.891858e-03        34         70                 4 0.05714286 0.11764706
+22 1.243540e-02        38         70                 4 0.05714286 0.10526316
+23 2.652905e-02        95         70                 5 0.07142857 0.05263158
+24 3.926401e-02       103         70                 5 0.07142857 0.04854369
+25 2.995528e-21      7337        395               237 0.60000000 0.03230203
+26 3.022227e-20      4023        395               161 0.40759494 0.04001989
+27 9.503677e-20      4690        395               176 0.44556962 0.03752665
+28 9.805813e-16      5948        395               195 0.49367089 0.03278413
+29 1.585045e-15      6535        395               207 0.52405063 0.03167559
+30 1.926528e-14      6263        413               196 0.47457627 0.03129491
+31 2.640716e-12      3018        395               118 0.29873418 0.03909874
+32 2.876126e-12       772        395                52 0.13164557 0.06735751
+33 3.463034e-12       803        395                53 0.13417722 0.06600249
+34 4.497141e-12      1316        395                70 0.17721519 0.05319149
+35 2.363288e-20      7337        311               195 0.62700965 0.02657762
+36 1.048150e-17      4690        311               144 0.46302251 0.03070362
+37 1.362167e-17      4023        311               131 0.42122186 0.03256276
+38 2.023910e-13      5948        311               157 0.50482315 0.02639543
+39 4.729632e-13      6535        311               166 0.53376206 0.02540168
+40 4.927786e-13      6598        311               167 0.53697749 0.02531070
+41 5.456539e-13      6263        325               159 0.48923077 0.02538719
+42 1.737257e-12      6558        311               165 0.53054662 0.02516011
+43 6.520480e-12       803        311                46 0.14790997 0.05728518
+44 7.183247e-12       772        311                45 0.14469453 0.05829016
+45 8.505278e-06       139         84                 9 0.10714286 0.06474820
+46 2.969648e-04        61         84                 6 0.07142857 0.09836066
+47 2.969648e-04        61         84                 6 0.07142857 0.09836066
+48 6.249877e-04        69         84                 6 0.07142857 0.08695652
+49 8.383273e-04        18         58                 4 0.06896552 0.22222222
+50 1.036469e-03      1694         84                22 0.26190476 0.01298701
+51 2.216224e-03        47         58                 5 0.08620690 0.10638298
+52 2.410006e-03        26         53                 4 0.07547170 0.15384615
+53 2.530901e-03        48         84                 5 0.05952381 0.10416667
+54 2.654260e-03       352         84                10 0.11904762 0.02840909
+55 1.495970e-13      7337        203               129 0.63546798 0.01758212
+56 3.446338e-08      4690        203                88 0.43349754 0.01876333
+57 2.187579e-07      4023        203                78 0.38423645 0.01938852
+58 2.262297e-07      6535        203               107 0.52709360 0.01637337
+59 3.805702e-07      5948        203               100 0.49261084 0.01681237
+60 3.968785e-07      6263        211               101 0.47867299 0.01612646
+61 2.729677e-06      1303        211                36 0.17061611 0.02762855
+62 2.863101e-06        52        203                 9 0.04433498 0.17307692
+63 4.093069e-06       941        203                31 0.15270936 0.03294368
+64 4.260660e-06      4443        203                80 0.39408867 0.01800585
+

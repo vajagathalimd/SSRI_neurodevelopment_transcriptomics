@@ -1,0 +1,69 @@
+[1] 18300    90
+ [1] ""                 "343-D0-CTRL-A"    "344-D0-CTRL-B"    "345-D0-CTRL-C"   
+ [5] "257-D10-CTRL-A"   "258-D10-CTRL-B"   "259-D10-CTRL-C"   "274-D10-CTRL-D"  
+ [9] "275-D10-CTRL-E"   "276-D10-CTRL-F"   "260-D10-CIT50-A"  "261-D10-CIT50-B" 
+[13] "262-D10-CIT50-C"  "263-D10-CIT50-D"  "277-D10-CIT50-E"  "278-D10-CIT50-F" 
+[17] "264-D10-CIT100-A" "265-D10-CIT100-B" "266-D10-CIT100-C" "279-D10-CIT100-D"
+ [1] "332-D6-CIT50-E"  "333-D6-CIT50-F"  "319-D6-CIT100-A" "320-D6-CIT100-B"
+ [5] "321-D6-CIT100-C" "334-D6-CIT100-D" "335-D6-CIT100-E" "336-D6-CIT100-F"
+ [9] "322-D6-CIT200-A" "323-D6-CIT200-B" "324-D6-CIT200-C" "337-D6-CIT200-D"
+[13] "338-D6-CIT200-E" "339-D6-CIT200-F" "325-D6-CIT400-A" "326-D6-CIT400-B"
+[17] "327-D6-CIT400-C" "340-D6-CIT400-D" "341-D6-CIT400-E" "342-D6-CIT400-F"
+                  343-D0-CTRL-A 344-D0-CTRL-B 345-D0-CTRL-C 257-D10-CTRL-A
+1 ENSG00000000003      6.752044      6.644898      7.129418       7.855339
+2 ENSG00000000419      6.033121      6.321384      6.322035       6.113358
+3 ENSG00000000457      3.152569      3.558174      3.594117       3.713816
+4 ENSG00000000460      4.986556      5.094197      5.484886       5.628075
+5 ENSG00000001036      6.019272      6.210571      6.400922       5.944903
+  258-D10-CTRL-B 259-D10-CTRL-C 274-D10-CTRL-D
+1       7.480304       7.731882       7.344808
+2       6.055440       6.247052       5.937361
+3       3.324317       3.529372       3.175365
+4       5.260447       5.340910       5.171685
+5       5.577550       5.708040       5.165068
+[1] 89 48
+ [1] ""                        "title"                  
+ [3] "geo_accession"           "status"                 
+ [5] "submission_date"         "last_update_date"       
+ [7] "type"                    "channel_count"          
+ [9] "source_name_ch1"         "organism_ch1"           
+[11] "characteristics_ch1"     "characteristics_ch1.1"  
+[13] "characteristics_ch1.2"   "treatment_protocol_ch1" 
+[15] "growth_protocol_ch1"     "molecule_ch1"           
+[17] "extract_protocol_ch1"    "extract_protocol_ch1.1" 
+[19] "taxid_ch1"               "description"            
+[21] "description.1"           "data_processing"        
+[23] "data_processing.1"       "data_processing.2"      
+[25] "data_processing.3"       "data_processing.4"      
+[27] "data_processing.5"       "platform_id"            
+[29] "contact_name"            "contact_email"          
+[31] "contact_phone"           "contact_laboratory"     
+[33] "contact_department"      "contact_institute"      
+[35] "contact_address"         "contact_city"           
+[37] "contact_state"           "contact_zip/postal_code"
+[39] "contact_country"         "data_row_count"         
+[41] "instrument_model"        "library_selection"      
+[43] "library_source"          "library_strategy"       
+[45] "supplementary_file_1"    "cell line:ch1"          
+[47] "cell type:ch1"           "treatment:ch1"          
+                                      title geo_accession                status
+1 GSM8127438       HS360-Day10-RNA-seq-rep1    GSM8127438 Public on Jul 01 2024
+2 GSM8127439       HS360-Day10-RNA-seq-rep2    GSM8127439 Public on Jul 01 2024
+3 GSM8127440       HS360-Day10-RNA-seq-rep3    GSM8127440 Public on Jul 01 2024
+4 GSM8127441 HS360-Day10-CIT50-RNA-seq-rep1    GSM8127441 Public on Jul 01 2024
+5 GSM8127442 HS360-Day10-CIT50-RNA-seq-rep2    GSM8127442 Public on Jul 01 2024
+  submission_date last_update_date type channel_count source_name_ch1
+1     Mar 05 2024      Jul 01 2024  SRA             1           HS360
+2     Mar 05 2024      Jul 01 2024  SRA             1           HS360
+3     Mar 05 2024      Jul 01 2024  SRA             1           HS360
+4     Mar 05 2024      Jul 01 2024  SRA             1           HS360
+5     Mar 05 2024      Jul 01 2024  SRA             1           HS360
+  organism_ch1
+1 Homo sapiens
+2 Homo sapiens
+3 Homo sapiens
+4 Homo sapiens
+5 Homo sapiens
+[1] 0
+character(0)
+[1] ""              "geo_accession"

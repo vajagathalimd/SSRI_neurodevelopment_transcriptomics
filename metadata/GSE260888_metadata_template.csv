@@ -1,0 +1,6 @@
+sample_id,dataset,compound,condition,dose_nM,time_point,model_system,replicate_number,comparison_group
+sample_1,GSE260888,None,Control,0,Day10,hESC_neuronal_differentiation,1,Day10_Control
+sample_2,GSE260888,Citalopram,Treated,50,Day10,hESC_neuronal_differentiation,1,Day10_CIT50
+sample_3,GSE260888,Citalopram,Treated,100,Day10,hESC_neuronal_differentiation,1,Day10_CIT100
+sample_4,GSE260888,Citalopram,Treated,200,Day10,hESC_neuronal_differentiation,1,Day10_CIT200
+sample_5,GSE260888,Citalopram,Treated,400,Day10,hESC_neuronal_differentiation,1,Day10_CIT400

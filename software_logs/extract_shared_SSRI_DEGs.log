@@ -1,0 +1,10 @@
+Total shared significant rows: 61 
+Same-direction rows: 51 
+Down-down rows: 50 
+Top shared downregulated genes:
+ [1] "SCN4A"     "CEBPB"     "PCK2"      "ATF5"      "JDP2"      "STC2"     
+ [7] "TRIB3"     "ASNS"      "SESN2"     "SLC1A5"    "ASS1"      "PHGDH"    
+[13] "GPT2"      "INHBE"     "TNFRSF12A" "CDH13"     "EMP1"      "LGI1"     
+[19] "BDNF"      "GABRA2"    "THRB"      "XK"        "SEMA3D"    "IL11"     
+[25] "CRYAB"     "SERPINB9"  "PAPPA"     "CHAC1"     "SH2D5"     "PLIN4"    
+[31] "TBC1D26"  

@@ -1,0 +1,17 @@
+input: "04_nfcore_inputs/GSE166297_nfcore_samplesheet.csv"
+outdir: "05_nfcore_results/GSE166297"
+
+genome: "GRCh38"
+
+pseudo_aligner: "salmon"
+skip_alignment: true
+gffread_transcript_fasta: true
+
+trimmer: "fastp"
+
+save_reference: false
+save_trimmed: false
+
+max_cpus: 8
+max_memory: "48.GB"
+max_time: "72.h"
