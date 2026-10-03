@@ -1,7 +1,7 @@
 path	size_bytes
 .gitignore	237
-CITATION.cff	300
-DATA_AVAILABILITY.md	746
+CITATION.cff	293
+DATA_AVAILABILITY.md	610
 differential_expression/GSE166297/FLX_IC20_100_vs_Control_D10_all_genes.csv	2277540
 differential_expression/GSE166297/FLX_IC20_100_vs_Control_D10_significant_FDR05_log2FC058.csv	84182
 differential_expression/GSE166297/FLX_IC5_vs_Control_D10_all_genes.csv	2274306
@@ -125,7 +125,8 @@ processed_expression/GSE166297_DESeq2/GSE166297_DESeq2_vst_matrix.csv	6745553
 processed_expression/GSE260888/GSE260888_gene_annotation_Ensembl_to_symbol.csv	804274
 processed_expression/GSE260888/GSE260888_logCPM_expression_with_annotation.csv	29007669
 processed_expression/GSE260888/GSE260888_parsed_sample_metadata.csv	4340
-README.md	2436
+README.md	2373
+REPOSITORY_MANIFEST.tsv	17956
 scripts/01_DESeq2_GSE166297_FLX_pilot.R	7916
 scripts/02_GSE166297_DEG_overlap_summary.R	4765
 scripts/03_GSE166297_gprofiler_API_enrichment.py	6673
@@ -167,9 +168,9 @@ software_logs/GSE260888/GSE260888_limma_module_analysis.log	230
 software_logs/GSE260888/GSE260888_limma_module_sessionInfo.txt	2081
 software_logs/organize_submission_files.log	31418
 software_logs/software_plan.txt	700
-submission_documents/Manuscript_02.10.2026_revised_chatgpt_FINAL_CLEAN.docx	4147686
-submission_documents/Manuscript_02.10.2026_revised_chatgpt_FINAL_TRACKED.docx	4158259
-submission_documents/Response_to_Reviewers_revised_chatgpt.docx	41517
+submission_documents/Manuscript_02.10.2026_revised_chatgpt_FINAL_CLEAN_GitHub.docx	4147654
+submission_documents/Manuscript_02.10.2026_revised_chatgpt_FINAL_TRACKED_GitHub.docx	4158266
+submission_documents/Response_to_Reviewers_revised_chatgpt_GitHub.docx	41492
 submission_documents/Supplementary_Figures_1_to_5.pdf	23097800
 submission_documents/Supplementary_Tables.xlsx	24731950
 tables/cross_SSRI_gene_level/FLX_IC20_100_vs_Control_D10__D10_CIT200_vs_CTRL_merged_gene_signature.csv	1702092

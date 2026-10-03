@@ -38,4 +38,8 @@ The repository does not duplicate raw FASTQ files or large workflow intermediate
 
 ## Notes for PLOS ONE resubmission
 
-This folder is prepared as the GitHub repository content for review. After it is pushed to GitHub, create a release and archive it with a permanent repository service such as Zenodo if a DOI is required. Insert the resulting DOI or accession into the manuscript Data Availability statement and response letter before final resubmission.
+This folder is prepared as the GitHub repository content for review and is available at:
+
+https://github.com/vajagathalimd/SSRI_neurodevelopment_transcriptomics
+
+The manuscript Data Availability statement and response letter cite this public GitHub repository directly.

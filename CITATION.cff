@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript and repository DOI once available."
+message: "If you use this repository, please cite the associated manuscript and this GitHub repository."
 title: "SSRI neurodevelopment transcriptomics"
 authors:
   - family-names: "Mohammed"
